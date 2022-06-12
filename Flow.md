@@ -22,3 +22,10 @@ nmap_user_opt_1 = nmap_opt_1(*args)
 - Write User options for Active and Passive scanning and integrate with Class files
 - Define the standared Out file for maintinaing data into Database
 - Add counter and Multithreading in class
+
+
+** Reference
+
+Get feed from user for Type of Actives need to perform 
+Active Scan Only 
+eg ==>>   1>Feed Target --> 2>Small,Medium,Large IP Active Scan --> 3>Find Subdomain --> 4>Repeat 2nd Stage for Live Subdoamin  
