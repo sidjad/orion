@@ -12,3 +12,13 @@ In Each class Function has multiple args which predifined options selected by Us
         
 //Variable call the specific class according to user value
 nmap_user_opt_1 = nmap_opt_1(*args)
+
+
+** Indivisual class object should call in main function file
+
+** Things to do **
+
+- Write Class files for Active and Passive scanning
+- Write User options for Active and Passive scanning and integrate with Class files
+- Define the standared Out file for maintinaing data into Database
+- Add counter and Multithreading in class
