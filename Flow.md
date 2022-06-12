@@ -1,4 +1,4 @@
-Write simple code which invok the tools from Linux system in python as in class \
+Write  code which invoke the tools from Linux system in python as in class \
 
 Each tool has seperate class file which call in main function file
 //from folder_class_fun import *

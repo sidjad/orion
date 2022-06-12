@@ -1,10 +1,10 @@
+*This is a Logic which need multiple times in future 
 
 import subprocess
 
 
 print("Enter the Hostname/IP")
 hostname = input("Enter HERE : ")
-
 
 
 hostname_nmap = hostname + "_nmap.xml"
